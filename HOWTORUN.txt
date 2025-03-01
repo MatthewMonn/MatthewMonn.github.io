@@ -1,0 +1,4 @@
+Remove Gemfile.lock 
+Run: 
+    bundle install
+    bundle exec jekyll serve 
