@@ -7,7 +7,7 @@ first_name: Matthew
 middle_name: R.
 last_name: Monn
 contact_note: >
-  For inquiries, please contact me at <a href="mailto:matthewmonn15@gmail.com">
+  For inquiries, please contact me at matthewmonn15@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
