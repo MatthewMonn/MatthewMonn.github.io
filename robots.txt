@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://MatthewMonn.github.io/al-folio/sitemap.xml
+Sitemap: https://MatthewMonn.github.io//sitemap.xml
